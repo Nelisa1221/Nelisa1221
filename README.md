@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_USERNAME below with your GitHub username -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f472b6&height=120&section=header" width="100%" alt="header" />
 
 <h1 align="center">Nelisa</h1>
@@ -60,23 +58,20 @@ I'm **Nelisa**, an Information Technology student passionate about software deve
 
 ---
 
+## stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nelisa1221&bg_color=0d1117&color=f472b6&line=f472b6&point=ffffff&area=true&hide_border=true" alt="contribution graph" width="100%" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="49%" alt="profile details" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="stats" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nelisa1221&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=c9d1d9" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Nelisa1221&hide_border=true&background=0d1117&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="most used languages" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="repos per language" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=c9d1d9" alt="top languages" />
+  <img src="https://streak-stats.demolab.com?user=Nelisa1221&hide_border=true&background=0d1117&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
 </p>
 
 ---

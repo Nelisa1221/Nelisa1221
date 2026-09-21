@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=F472B6&center=true&vCenter=true&width=435&lines=system+online+%E2%80%94+welcome_;C%23+%C2%B7+.NET+%C2%B7+SQL+%C2%B7+Python;always+learning%2C+always+building_" alt="typing intro" />
 </p>
 
-## whoami
+## who am i
 
 I'm **Nelisa**, an Information Technology student passionate about software development, databases, and data analysis. I build Windows Forms applications in C# and .NET, design and query databases, and explore machine learning and forecasting with Python. Currently focused on building practical, user-friendly applications and growing my portfolio.
 
@@ -61,16 +61,16 @@ I'm **Nelisa**, an Information Technology student passionate about software deve
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=f472b6&line=f472b6&point=ffffff&area=true&hide_border=true" alt="contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nelisa1221&bg_color=0d1117&color=f472b6&line=f472b6&point=ffffff&area=true&hide_border=true" alt="contribution graph" width="100%" />
 </p>
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=c9d1d9" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nelisa1221&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=c9d1d9" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+      <img src="https://streak-stats.demolab.com?user=Nelisa1221&hide_border=true&background=0d1117&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
     </td>
   </tr>
 </table>
@@ -109,8 +109,8 @@ I'm **Nelisa**, an Information Technology student passionate about software deve
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=f472b6" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=f472b6" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nelisa-mdubo-979a19413"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=f472b6" alt="LinkedIn" /></a>
+  <a href="mailto:lisamdubo@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=f472b6" alt="Email" /></a>
 </p>
 
 <p align="center">
